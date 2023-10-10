@@ -1,0 +1,6 @@
+.idea
+**/__pycache__/
+lmbdaDeploy
+venv
+playground.py
+test.py

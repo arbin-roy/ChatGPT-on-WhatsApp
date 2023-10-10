@@ -1,0 +1,5 @@
+fastapi==0.99.0
+mangum
+python-multipart
+twilio
+openai
